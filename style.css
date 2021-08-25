@@ -1,0 +1,91 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header {
+    background-image: url("img/past.PNG");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 58rem;
+}
+.navbar-brand {
+    font-size: 3rem;
+    padding-left: 2.1rem;
+    font-weight: 700;
+    color: #fff;
+    /* background-color: red; */
+}
+.navbar-brand:hover {
+    color: #fff;
+}
+.nav-item {
+    padding: 2rem 1rem;
+}
+.ayon {
+    padding-right: 2rem;
+}
+.nav-link {
+    color: #fff;
+    /* background-color: red; */
+    font-family: "lato",sans-serif;
+
+}
+.nav-link:hover {
+    text-decoration: line-through;
+    color: #fff;
+}
+span {
+    color: #fff;
+    font-size: 3rem;
+    padding-top: 1rem;
+}
+.banner-section {
+
+}
+.banner {
+    /* width: 50%; */
+    /* padding: 10rem 15rem; */
+    padding-left: 15rem;
+    padding-top: 10rem;
+}
+.ph {
+    width: 56%;
+    font-family: "lato",sans-serif;
+    font-weight: 600;
+    color: #fff;
+    line-height: 5rem;
+    font-size: 4rem;
+}
+.container-custom {
+    width: 1650px;
+    margin: auto;
+}
+.iphone {
+    padding-top: 5rem;
+}
+.bn-ph {
+    font-size: 1.2rem;
+    font-family: "lato",sans-serif;
+    font-weight: 900;
+}
+.bn-btn {
+    padding: 0.4rem 2.5rem;
+    font-size: 1rem;
+    border-radius: 2rem;
+    background-color: #fff;
+    border: none;
+    color: #f00;
+    font-family: "lato", bold;
+    margin-top: 5rem;
+}
+.bn-btn:hover {
+    background-color: #ffff;
+    color: #f00;
+}
+.bn-low {
+    font-size: 1.2rem;
+    font-family: "lato",sans-serif;
+    color: #fff;
+}
